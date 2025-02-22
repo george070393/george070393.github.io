@@ -1,0 +1,6 @@
+a .sitem_over{
+	display: none;
+}
+a:hover .sitem_over{
+	display: block;
+}
